@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">JuanAmorocho_EvguenyAnstyferov_COMP304SEC001_Lab4</string>
+    <string name="cntower">A landscape picture of the CN Tower in Toronto. </string>
+    <string name="toronto">A landscape of Toronto. </string>
+    <string name="back_arrow">A black arrow that signals going back. </string>
+
+
 </resources>
