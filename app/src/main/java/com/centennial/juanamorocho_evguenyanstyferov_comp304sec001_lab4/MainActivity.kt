@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            TravelRouteTheme {
+            JuanAmorocho_EvguenyAnstyferov_COMP304SEC001_Lab4Theme {
                 MapScreen(viewModel)
             }
         }

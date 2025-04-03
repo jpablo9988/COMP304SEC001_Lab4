@@ -13,7 +13,6 @@ import kotlinx.coroutines.launch
 
 class MapViewModel(application: Application) : AndroidViewModel(application) {
     private val repository = LocationRepository(application)
-
     private val _userLocation = MutableStateFlow<LatLng?>(null)
     val userLocation = _userLocation.asStateFlow()
 
